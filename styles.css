@@ -1,0 +1,25 @@
+img{ 
+    width:40%;
+    height: 30%; }
+
+h1 { 
+    font-family: 'Indie Flower', cursive;
+    color: red;
+    }
+ 
+body{
+ background-image: url(https://www.picturesboss.com/?d=PGy8ofP8wvh3XFgKmMh23RwvydDs6lPwAydJ0ncbSs2ne6FulyVVej14U_u01mPEL-JDhyiil2IooMkHYmEf3pdixeObCyp7B73ti39HtBljFcr_bhVPTlD4DFHKTGBRlMgsqpuNVXow7uXC2OBBaXwGy1XB4dtakf_khvNOWos);}    
+    
+body{
+    display:flex;
+     justify-content:center;
+       flex-direction: column;
+       text-align:center;
+}
+    
+    
+    
+    
+    
+    
+    
